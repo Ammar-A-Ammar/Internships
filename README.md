@@ -38,7 +38,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |✔️
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |🔐
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |🔐
-|[Eventum](http://eventumsolutions.com/) | Alexandria | Not Yet |🔐
+|[Eventum](http://eventumsolutions.com/) | Alexandria | Open - Deadline: 31/5/2022 |✔️
 |[Giza Systems](https://www.gizasystemscareers.com/en/other/jobs/4507527/](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/)) | Cairo | open |✔️
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|✔️
 |[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|✔️
@@ -73,6 +73,9 @@ Star and Watch the repo and pull new changes regularly.
 |[Block Gemini](https://wuzzuf.net/internship/rOmNkyzFDI9p-Sales-Engineer---Software-Development-Intern-Block-Gemini-Giza-Egypt)| cairo |  Open - <b> Paid Intern </b></b> - Deadline: 22/5/2022 |✔️
 |[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Open <b> - Deadline: 26/5/2022 |✔️
 |[cross workers](https://careers.crossworkers-egypt.com/)| cairo |  Open <b> - Multiple interns - Deadline: Unknown |✔️
+|[LXT](https://lxt.bamboohr.com/jobs/view.php?id=201&fbclid=IwAR1_vt-29N9VVMs-_Q5uepT2dfP3NS-IWQWabKSGuqUWN3uVTB0jWGu0Vos)| cairo |  Open <b> - Paid intern - Deadline: Unknown |✔️
+<!-- |[cross workers](https://careers.crossworkers-egypt.com/)| cairo |  Open <b> -   - Deadline: Unknown |✔️ -->
+ 
 <!-- |[cross workers QC Engineer](https://careers.crossworkers-egypt.com/jobs/1792342-qc-engineer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
 |[cross workers VUE.JS](https://careers.crossworkers-egypt.com/jobs/1792206-vue-js-developer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
  -->
