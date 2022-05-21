@@ -37,7 +37,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|✔️
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |✔️
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |🔐
-|[Espace](https://espace.com.eg/) | Alexandria | Not Yet |🔐
+|[Espace]([https://espace.com.eg/](https://espace.com.eg/blog/announcing-our-2022-internship-program/)) | Alexandria | Open |✔️
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Open - Deadline: 31/5/2022 |✔️
 |[Giza Systems](https://www.gizasystemscareers.com/en/other/jobs/4507527/](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/)) | Cairo | open |✔️
 |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|✔️
