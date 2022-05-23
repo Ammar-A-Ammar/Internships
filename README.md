@@ -46,7 +46,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |🔐
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |🔐
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |✔️
-|[Instabug](https://www.facebook.com/520315251340897/posts/5221250481247327/)| Cairo | Open - <b> Paid Intern </b> - Deadline: 18/5/2022|✔️
 |[Itida](https://www.itida.gov.eg/Arabic/Programs/Summer-Internships/Pages/default.aspx)| Cairo |Open - <b>Paid training</b> - Software development training - Deadline: 20/6/2022 |✔️
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |📝
 |[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |✔️
@@ -62,7 +61,7 @@ Star and Watch the repo and pull new changes regularly.
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |✔️
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |🔐
 |[Tatbeek](https://www.tatbeek.com/ar/jobs/detail/software-engineer-internship-26) | Smart Village or Remotely | Open |✔️
-|[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |
+|[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |✔️
 |[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |✔️
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Open |✔️
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
@@ -109,7 +108,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Valeo](https://www.valeo.com/en/find-a-job-or-internship/)| Cairo | Closed |
 |[Vezeeta](https://careers.vezeeta.com/)| Cairo | Closed |
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
- |[WebsOps](https://careers.thewebops.com/index.php/ads/summer-internship/?fbclid=IwAR2-lSriess4JxMJowkCPOMIV_gGetjxhOkqa7oolHGGv-H5zU4deKJD-I8) | Cairo | Closed |
+|[WebsOps](https://careers.thewebops.com/index.php/ads/summer-internship/?fbclid=IwAR2-lSriess4JxMJowkCPOMIV_gGetjxhOkqa7oolHGGv-H5zU4deKJD-I8) | Cairo | Closed |
+|[Instabug](https://www.facebook.com/520315251340897/posts/5221250481247327/)| Cairo | Closed - <b> Paid Intern </b> - Deadline: 18/5/2022|❌
 
 
 
