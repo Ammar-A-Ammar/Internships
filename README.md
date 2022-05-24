@@ -75,6 +75,7 @@ Star and Watch the repo and pull new changes regularly.
 |[trella ](https://jobs.lever.co/trella/29809f6a-fd41-4697-b876-679e787a14b6/apply)| cairo |  Open <b>  - Deadline: Deadline: 31/5/2022 |✔️ 
 |[EgSA ](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |✔️  
 |[The Sparks foundation ](https://internship.thesparksfoundation.info/#steps-to-apply)| cairo |  Open <b>  - Deadline: 24th of May (11:59 PM SGT) |✔️
+|[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Cairo | Open - <b> Paid Intern </b> - Deadline 20/6/2022 |✔️
 <!-- |[cross workers QC Engineer](https://careers.crossworkers-egypt.com/jobs/1792342-qc-engineer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
 |[cross workers VUE.JS](https://careers.crossworkers-egypt.com/jobs/1792206-vue-js-developer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
  -->
