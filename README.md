@@ -40,7 +40,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Alexandria | Open |✔️
 |[Eventum](http://eventumsolutions.com/) | Alexandria | Open - Deadline: 31/5/2022 |✔️
 |[Giza Systems](https://www.gizasystemscareers.com/en/other/jobs/4507527/](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2022-software-track-4512285/)) | Cairo | open |✔️
-|[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|✔️
 |[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Open - Deadline: 31/5/2022|✔️
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Open |✔️
 |[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |🔐
@@ -54,7 +53,6 @@ Star and Watch the repo and pull new changes regularly.
 |[Nichepharma](https://wuzzuf.net/internship/62geuIXjM3eq-UIUX-Designer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Open - <b> Paid Intern </b> |✔️
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |🔐
 |[Orange](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Remote | Open |✔️
-|[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |:x:
 |[Pharos Solutions](https://docs.google.com/forms/d/e/1FAIpQLSfMo2aHUve4WSFLfRyw9rI4CJYTYSiroJGDlPr9hypN3cIB0A/viewform) | Alexandria | Open |✔️
 |[Procrew](https://wuzzuf.net/internship/0F0bmcOwamdX-UI-Developer-Internship---Alexandria-Procrew-Alexandria-Egypt?o=1&l=bp&t=bj&bpv=np&a=Software-Engineer---Internship-Jobs-in-Egypt) | Alexandria | Open - <b> Paid </b> - UI Developer Internship |✔️
 |[Shahry](https://shahry.app/careers/?jobId%5C=CKJmmcZN9dAP&jobId=CKJmmcZN9dAP) | Cairo |Open - Software Engineering Intern (Backend)|✔️
@@ -111,7 +109,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Webalo](https://www.webalo.com/careers/) | Alexandria | Closed |
 |[WebsOps](https://careers.thewebops.com/index.php/ads/summer-internship/?fbclid=IwAR2-lSriess4JxMJowkCPOMIV_gGetjxhOkqa7oolHGGv-H5zU4deKJD-I8) | Cairo | Closed |
 |[Instabug](https://www.facebook.com/520315251340897/posts/5221250481247327/)| Cairo | Closed - <b> Paid Intern </b> - Deadline: 18/5/2022|❌
-
+ |[HackerRank Software intern](https://boards.greenhouse.io/hackerrank/jobs/4022713?gh_jid=4022713#app) | Remote | Open - <b> Paid Intern </b> - 6 months full-time intern (july-Dec)|❌
+|[P&G Intern](https://www.pgcareers.com/job/cairo/it-summer-22-internship/936/28772307456) | Cairo | Open |❌
 
 
 
