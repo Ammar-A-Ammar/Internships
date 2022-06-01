@@ -79,7 +79,7 @@ Star and Watch the repo and pull new changes regularly.
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |✔️
 |[Ahram security Group](https://wuzzuf.net/search/jobs/?q=Ahram+security+group&a=navbl) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
  |[Fatura ](https://careers.faturab2b.com/jobs/1812388-fatura-rise-internship-program-data-intern) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
-  |[si-ware-systems](https://www.24sevenjobtalk.com/2021/02/si-ware-systems-internship-mems-development-intern.html) | Cairo | Open - Deadline UnKnown |
+  |[si-ware-systems](https://www.24sevenjobtalk.com/2021/02/si-ware-systems-internship-mems-development-intern.html) | Cairo | Open - Deadline UnKnown |✔️
   |[siemens ](https://jobs.siemens.com/jobs/318046?lang=en-us&previousLocale=en-US&fbclid=IwAR2JdPsDQPc3Im_hmc8Iyjh1oYUymZtYQFVYSm5wyboxVri5OVEeWd-U2eo) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
    |[sumerge ](https://www.sumerge.com/job-description/?jobID=87) | Cairo | Open - Deadline UnKnown |✔️
  
