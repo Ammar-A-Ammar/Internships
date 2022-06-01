@@ -70,7 +70,6 @@ Star and Watch the repo and pull new changes regularly.
 |[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Open <b> - Deadline: 26/5/2022 |✔️
 |[cross workers](https://careers.crossworkers-egypt.com/)| cairo |  Open <b> - Multiple interns - Deadline: Unknown |✔️
 |[LXT](https://lxt.bamboohr.com/jobs/view.php?id=201&fbclid=IwAR1_vt-29N9VVMs-_Q5uepT2dfP3NS-IWQWabKSGuqUWN3uVTB0jWGu0Vos)| cairo |  Open <b> - Paid intern - Deadline: Unknown |✔️
-
 |[EgSA ](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |✔️  
 |[The Sparks foundation ](https://internship.thesparksfoundation.info/#steps-to-apply)| cairo |  Open <b>  - Deadline: 24th of May (11:59 PM SGT) |✔️
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Cairo | Open - <b> Paid Intern </b> - Deadline 20/6/2022 |✔️
@@ -80,6 +79,10 @@ Star and Watch the repo and pull new changes regularly.
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |✔️
 |[Ahram security Group](https://wuzzuf.net/search/jobs/?q=Ahram+security+group&a=navbl) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
  |[Fatura ](https://careers.faturab2b.com/jobs/1812388-fatura-rise-internship-program-data-intern) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
+  |[si-ware-systems](https://www.24sevenjobtalk.com/2021/02/si-ware-systems-internship-mems-development-intern.html) | Cairo | Open - Deadline UnKnown |
+  |[siemens ](https://jobs.siemens.com/jobs/318046?lang=en-us&previousLocale=en-US&fbclid=IwAR2JdPsDQPc3Im_hmc8Iyjh1oYUymZtYQFVYSm5wyboxVri5OVEeWd-U2eo) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
+   |[sumerge ](https://www.sumerge.com/job-description/?jobID=87) | Cairo | Open - Deadline UnKnown |✔️
+ 
  
 <!-- |[cross workers QC Engineer](https://careers.crossworkers-egypt.com/jobs/1792342-qc-engineer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
 |[cross workers VUE.JS](https://careers.crossworkers-egypt.com/jobs/1792206-vue-js-developer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
