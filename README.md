@@ -32,7 +32,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000012296723/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data analysis Intern|✔️
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |✔️
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open- Deadline: 30/8/2022 |✔️
-|[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Open- Deadline: 1/6/2022|✔️
+|[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Open- Deadline: 1/6/2022|✔️⭐
 |[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|✔️
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|✔️
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |✔️
@@ -48,7 +48,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Itida](https://www.itida.gov.eg/Arabic/Programs/Summer-Internships/Pages/default.aspx)| Cairo |Open - <b>Paid training</b> - Software development training - Deadline: 20/6/2022 |✔️
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |✔️
 |[Magdsoft](https://wuzzuf.net/internship/z3ZGjrCNWpxS-PHP-Developer---intern-Magdsoft-Cairo-Egypt?o=1&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) | Nasr City- Cairo | Open - <b> unpaid Intern </b> - PHP Intern |✔️
-|[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |✔️
+|[Mega Trust (Flutter&PHP Training)](https://docs.google.com/forms/d/e/1FAIpQLScV8M2nJP8MiTym9p-7KI4otOR7fRTYwZuFGzWcPV_5PHhZOg/viewform?urp=gmail_link) | Alexandria | Open - <b> Unpaid Training </b> - Requires experience in Flutter or PHP |✔️⭐
 |[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |✔️
 |[Nichepharma](https://wuzzuf.net/internship/62geuIXjM3eq-UIUX-Designer-nichepharma-Giza-Egypt) | Sheikh Zayed, Giza | Open - <b> Paid Intern </b> |✔️
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |🔐
@@ -59,8 +59,8 @@ Star and Watch the repo and pull new changes regularly.
 |[SKILLVERTEX](https://docs.google.com/forms/d/e/1FAIpQLSfH1Oqah1TuBRR5_3vaN94vzKe6fDsXwqUo0m76ZAnkY3nX_A/viewform) | Remote | Open |✔️
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |🔐
 |[Tatbeek](https://www.tatbeek.com/ar/jobs/detail/software-engineer-internship-26) | Smart Village or Remotely | Open |✔️
-|[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |✔️
-|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |✔️
+|[Technocolabs Softwares](https://docs.google.com/forms/d/e/1FAIpQLSdytYOR6tWfpVBVMb6HhkvPyqPqoDfRFh40fT4y7uosLsk5NA/viewform) | Remote | Open - Machine Learning Engineer Interns |✔️⭐
+|[The Sparks Foundation GRIP](https://internship.thesparksfoundation.info/#steps-to-apply) | Remote | Open - <b> Unpaid Intern </b> |✔️⭐
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Open |✔️
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |✔️
@@ -71,12 +71,12 @@ Star and Watch the repo and pull new changes regularly.
 |[cross workers](https://careers.crossworkers-egypt.com/)| cairo |  Open <b> - Multiple interns - Deadline: Unknown |✔️
 |[LXT](https://lxt.bamboohr.com/jobs/view.php?id=201&fbclid=IwAR1_vt-29N9VVMs-_Q5uepT2dfP3NS-IWQWabKSGuqUWN3uVTB0jWGu0Vos)| cairo |  Open <b> - Paid intern - Deadline: Unknown |✔️
 |[EgSA ](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Open <b>  - Deadline: 6/6/2022 @ 12 PM |✔️  
-|[The Sparks foundation ](https://internship.thesparksfoundation.info/#steps-to-apply)| cairo |  Open <b>  - Deadline: 24th of May (11:59 PM SGT) |✔️
+|[The Sparks foundation ](https://internship.thesparksfoundation.info/#steps-to-apply)| cairo |  Open <b>  - Deadline: 24th of May (11:59 PM SGT) |✔️⭐
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Cairo | Open - <b> Paid Intern </b> - Deadline 20/6/2022 |✔️
  |[Vodafone Internship](https://forms.office.com/pages/responsepage.aspx?id=x07VKCEiF0essH-MNzWQSFAYwJGMjSBNtycd3NvjJXNURE1WWFpDQ09OSUIxN1NKMzRCMFFBNTlCNS4u)| Giza | Open- <b>Deadline: May 29th by 11:59PM </b> - [eligibility criteria](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvodafoneegypt.newsweaver.co.uk%2Fnewsletter2017%2F1t0b44877iw1p5p49q53oc%3Femail%3Dtrue%26a%3D5%26p%3D61684103%26t%3D31901669&data=05%7C01%7Cahmed.mohamed4%40vodafone.com.eg%7C73d0c9556c6c4bb0171608da3d96cb4f%7C28d54ec722214717acb07f8c37359048%7C0%7C0%7C637890015118349904%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rERijGOUwp84uc5QdKE6pc%2B6%2BQBrnv0Srp003JYYWzs%3D&reserved=0) |✔️
 |[National Bank Of Egypt (Alahly)](http://tiny.cc/NBE_Internship)| Cairo | Open- <b>Unpaid Intern, For 2nd & 3rd Year Students</b> - Multi Role |✔️
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Cairo | Open - <b> Paid Intern </b> - Deadline 20/6/2022 |✔️
-|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |✔️
+|[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |✔️⭐
 |[Ahram security Group](https://wuzzuf.net/search/jobs/?q=Ahram+security+group&a=navbl) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
  |[Fatura ](https://careers.faturab2b.com/jobs/1812388-fatura-rise-internship-program-data-intern) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
   |[si-ware-systems](https://www.24sevenjobtalk.com/2021/02/si-ware-systems-internship-mems-development-intern.html) | Cairo | Open - Deadline UnKnown |✔️
