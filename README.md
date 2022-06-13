@@ -28,7 +28,7 @@ Star and Watch the repo and pull new changes regularly.
 |[ARPU PLUS](https://wuzzuf.net/internship/wzzGmxTqK2eV-IT-Intern-ARPUPLUS-Giza-Egypt?o=4&l=bp&t=bj&bpv=np&a=IT-Software-Development-Jobs-in-Egypt) |Giza - Egypt| Open - IT Intern - <b>Paid Intern</b>|   ✔️
 |[Bld.ai full stack internship](https://www.facebook.com/story.php?story_fbid=3224472287781962&id=100006576661221&scmts=scwspsdd)| Remote |Open - <b>Paid Intern</b>|    ✔️
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |🔐
-|[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |🔐
+|[Brightskies](https://brightskiesinc.com/) | Alexandria | Open |✔️
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000012296723/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data analysis Intern|✔️
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |✔️
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open- Deadline: 30/8/2022 |✔️
@@ -82,6 +82,13 @@ Star and Watch the repo and pull new changes regularly.
   |[si-ware-systems](https://www.24sevenjobtalk.com/2021/02/si-ware-systems-internship-mems-development-intern.html) | Cairo | Open - Deadline UnKnown |✔️
   |[siemens ](https://jobs.siemens.com/jobs/318046?lang=en-us&previousLocale=en-US&fbclid=IwAR2JdPsDQPc3Im_hmc8Iyjh1oYUymZtYQFVYSm5wyboxVri5OVEeWd-U2eo) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
    |[sumerge ](https://www.sumerge.com/job-description/?jobID=87) | Cairo | Open - Deadline UnKnown |✔️
+ |[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open- <b> - Multiple interns - Deadline: Unknown</b> |✔️
+ |[Algoriza](https://docs.google.com/forms/d/e/1FAIpQLSf18qDifmfE-IfNG3IYTYYYtZnGsjWk9ALLW_b56XXcFtn__A/viewform) | Cairo | Open - Flutter Internship|✔️
+ |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |✔️
+ |[Town4One](https://wuzzuf.net/internship/NOOvwE8X5IIp-ERP-Developer-Internship-Town4One-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5) |Sheikh Zayed | Open - <b> Paid </b> - Deadline: 20/6/2022 |✔️
+ |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern - 2000 To 3000 EGP Per Month </b> |✔️
+ |[Versed AI](https://jobs.smartrecruiters.com/VersedAI/743999830097487-data-science-intern) | Remote | Open- Data Analysis Intern|✔️
+ |[CodeScalers](https://codescalers-egypt.com/careers.html?fbclid=IwAR33CXZcObx8RZBN_yf-l8FTxfbZNa7Hq_hQx-wR9iqhOuBTFel3Gy7A2aQ) | Cairo | Open |✔️
  
  
 <!-- |[cross workers QC Engineer](https://careers.crossworkers-egypt.com/jobs/1792342-qc-engineer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
