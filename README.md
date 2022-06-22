@@ -32,7 +32,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Brainnest](https://bbrainnest.zohorecruit.com/jobs/Careers/656784000012296723/Data-Analysis-Intern-Remote-Internship---Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Remote |Open - Data analysis Intern|✔️
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |✔️
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open- Deadline: 30/8/2022 |✔️
-|[Corporatica Machine Learning intern](https://www.linkedin.com/posts/corporatica_machineabrlearningabrintern-jobabrdescription-activity-6907339598075187200-iXj7/?fbclid=IwAR2-QweX1m7k9ieJ2HEH4bqwUEK4q5JTHNmLYIpIt2XCeQD1OqKheh6Bmig) | Cairo |Open|✔️
+|[Corporatica Machine Learning intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/) | Cairo |Open|✔️
 |[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|✔️
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |✔️
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |🔐
@@ -76,8 +76,34 @@ Star and Watch the repo and pull new changes regularly.
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern - 2000 To 3000 EGP Per Month </b> |✔️
 |[CodeScalers](https://codescalers-egypt.com/careers.html?fbclid=IwAR33CXZcObx8RZBN_yf-l8FTxfbZNa7Hq_hQx-wR9iqhOuBTFel3Gy7A2aQ) | Cairo | Open |✔️
 |[Link Development](https://linkdevelopment.com/careers/opportunities/summer-internship-egypt)| Cairo |Open - Multiple interns - Deadline: Unknown |✔️
-|[Sprints]( https://bit.ly/37OftzG) | Cairo | open - Deadline UnKnown |✔️
+|[AFKAR Technology](https://wuzzuf.net/internship/a9u7SIFmUE6f-DotNet-core-Developer---Internship-AFKAR-Technology-Cairo-Egypt) | Cairo | Open - <b>Paid</b> - DotNet core Intern -Deadline: 23/6/2022 |✔️
+|[ARQQA](https://www.facebook.com/groups/EgyptianGeeksJobs/posts/5336990679727787/?__cft__[0]=AZV0iKW3H-KifZDVbbfRAkiU73l6GVwEL3BzpQapTCP8c_g3SsnfZANbDAFm1iPXlOzV7hsripR7sIyawgM3FHGK0rPKY6e20wnrR-Gs0MscxW0-TPs4AkYcljWS8RmF2hfaoxvqvyDW1LlHKh2OKFRNIM6mLCs0Bto37f-PjgYRghnYhbX2wr4b1ySGYM6ZKTg&__tn__=%2CO%2CP-R) | Not Mentioned | Open - <b>Paid</b> - The program starts in July|✔️
+|[AFKAR Technology]() | Cairo | Open - <b>Paid</b> - DotNet core Intern -Deadline: 23/6/2022 |✔️
+|[E-num](https://www.linkedin.com/posts/hassanel-seoudy_hiring-activity-6938900459000602624--6ew/?utm_source=linkedin_share&utm_medium=ios_app&fbclid=IwAR23uapqZdAM2tKNz0gpKKV-2ahTbF4wA7TGCpWDIu3LV8x3Oq4vaMi52K0) | Remote | Open |✔️
+|[DAAD](https://www.daad.eg/en/about-us/contact/counselling/postgraduates/)| german | Open - Individual Counselling Session for Postgraduates -Deadline: Unknown |
+|[Identity Solutions](https://www.facebook.com/identity.solutions.org/posts/pfbid0YDT9SeLbK7vVfvE6VH5DcwekSmRiYtkmdRNFuJFg8TeGB7oJ3GgkHnPe7E3frzonl) | | Mobile apps & web development focus - deadline: 30th of June |✔️
+|[Izam](https://wuzzuf.net/internship/oFfMQ6zPoefw-Front-End-Web-Developer-Izam-inc-Giza-Egypt) | Mohandessin, Giza | Open - <b> Paid Intern </b> - Front-End Intern - Deadline: 23 July|
+|[Lafarge Egypt](https://www.facebook.com/LafargeEgypt/posts/2222152257939083)| Cairo | Open - Multiple Interns |✔️
+|[Machinfy](https://www.facebook.com/Machinfy/photos/a.129683178598972/557815005785785/)| Cairo | Open - Data Science internship - Deadline: 25 June|  
+|[Metas Studio (Mobile Application Developer (Flutter))](https://wuzzuf.net/internship/lLb47ZgqKnFO-Mobile-Application-Developer-Flutter---Internship-Metas-Studio-Alexandria-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=2&fbclid=IwAR19vTa3_tgzBP0JPCTWrM5ZpY3tRYwULyirCxfGo32vxWeDX7mPk4u-tVE) | Alexandria | Open - <b> Paid </b> |
+|[O Projects](https://www.facebook.com/oprojectsegy/posts/1450414682062148) | Cairo | Open - Multiple interns |
+|[R2S](https://www.linkedin.com/posts/dinadibrahim_internship-activity-6942610717757820929-yKmJ?utm_source=linkedin_share&utm_medium=ios_app)| Cairo  | Open -  <b>Paid</b> - web-dev/database/testing |
+|[Sahl](https://sahl.recruitee.com/o/software-development-intern?fbclid=IwAR0HnnPB4trUbUaZhJkfFnXWfU8Ts8ep_PKpS4HLdvRH9sYlBZKEwfo8kAw)| Smart Village - Egypt | Open |
+|[Stepinside V-commerce](https://wuzzuf.net/internship/QiJqt9Vh2RO5-Web-Designer---Internship-Stepinside-V-commerce-Alexandria-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5&fbclid=IwAR0Q0XLbUqg1pDjni7BC4aAOn-1Jiw7NvPnugVSBEdof-24mQrHW2dOvRxA)| Smouha, Alexandria | Open - <b>Paid Intern</b> -Web Designer Intern|
+|[Seuqel Solutions](https://wuzzuf.net/internship/WoYugnA7Yk5G-MERN-Full-Stack-Developer-Internship-Seuqel-Solutions-Cairo-Egypt?l=bp&t=bj&a=Student-Jobs-in-Egypt&o=16&sut=soc-login&login=1) |Downtown Cairo|**MERN** Internship **Paid** - DeadLine: 30/06/2022 |
+|[SIEMENS](https://www.linkedin.com/feed/update/urn:li:activity:6939878940022849536/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6939878940022849536%29)|Not Mentioned| Open - Deadline on June 30|
+|[SIEMENS Healthineers](https://www.facebook.com/Tarek.Elashraf.Siemens/videos/1196491004450436/)|Hyprid| Open - DeadLine: 30/06/2022 |
+|[VERO](https://www.linkedin.com/posts/ayaelsayed_copied-activity-6941494648540381184-lazH/) | Not Mentioned | Open - Game Developer - Frontend Intern Deadline on June 19|
  
+ 
+ 
+ <hr>
+
+## Send your CV to those emails :
+ 
+| Name  |  email |  Notes  |  Email Subject  | status |
+|---|---|-------------|-|--|
+|ARQQA| join@arqqa.net | Front-End Web Development Internship | Subject: ARQQA Internship 2022 |✔️
  
 <!-- |[cross workers QC Engineer](https://careers.crossworkers-egypt.com/jobs/1792342-qc-engineer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
 |[cross workers VUE.JS](https://careers.crossworkers-egypt.com/jobs/1792206-vue-js-developer-internship?utm_source=new_job&utm_medium=email&utm_content=email-cta-apply&utm_campaign=new_job_email)| cairo |  Open - <b> - Deadline: 26/5/2022 |✔️
@@ -122,7 +148,7 @@ Star and Watch the repo and pull new changes regularly.
 |[synapse analytics](https://www.synapse-analytics.io/summer-internship)| cairo |  Closed <b> - Deadline: 26/5/2022 |✔️
 |[Coformatique](https://www.facebook.com/coformatique/posts/pfbid032tNP1Wc8zBpBiR9MjjPWitSXrWUnocDBq71kwDGnQUjnW8gpDRCjFLuKPriM32WQl) | Cairo |Closed- Deadline: 1/6/2022|✔️⭐
 |[Block Gemini](https://wuzzuf.net/internship/rOmNkyzFDI9p-Sales-Engineer---Software-Development-Intern-Block-Gemini-Giza-Egypt)| cairo |  Closed - <b> Paid Intern </b></b> - Deadline: 22/5/2022 |✔️
- |[Ahram security Group](https://wuzzuf.net/search/jobs/?q=Ahram+security+group&a=navbl) | Cairo | Closed - <b> Multi Interns </b> - Deadline: 5/6/2022 |✔️
+|[Ahram security Group](https://wuzzuf.net/search/jobs/?q=Ahram+security+group&a=navbl) | Cairo | Closed - <b> Multi Interns </b> - Deadline: 5/6/2022 |✔️
 |[EVA Pharma](  https://www.facebook.com/103532834475553/posts/572869657541866)| Cairo |  Closed <b>  - Deadline: 6/6/2022 @ 12 PM |✔️
 |[EgSA](https://docs.google.com/forms/d/e/1FAIpQLSfKvdCL7o5zNAOeFeqXY7B3VADXdMmMV7nP4Ncx4OUTr1pmZw/viewform)| cairo |  Closed <b>  - Deadline: 6/6/2022 @ 12 PM |✔️
 |[ShiftEv](https://careers.smartrecruiters.com/ShiftEv) | Cairo | Open - <b> UnPaid Intern </b> - Deadline UnKnown |✔️⭐
@@ -131,12 +157,5 @@ Star and Watch the repo and pull new changes regularly.
 |[Vodafone Internship](https://forms.office.com/pages/responsepage.aspx?id=x07VKCEiF0essH-MNzWQSFAYwJGMjSBNtycd3NvjJXNURE1WWFpDQ09OSUIxN1NKMzRCMFFBNTlCNS4u)| Giza | Closed- <b>Deadline: May 29th by 11:59PM </b> - [eligibility criteria](https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvodafoneegypt.newsweaver.co.uk%2Fnewsletter2017%2F1t0b44877iw1p5p49q53oc%3Femail%3Dtrue%26a%3D5%26p%3D61684103%26t%3D31901669&data=05%7C01%7Cahmed.mohamed4%40vodafone.com.eg%7C73d0c9556c6c4bb0171608da3d96cb4f%7C28d54ec722214717acb07f8c37359048%7C0%7C0%7C637890015118349904%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rERijGOUwp84uc5QdKE6pc%2B6%2BQBrnv0Srp003JYYWzs%3D&reserved=0) |✔️
 |[Hoopoe Digital](https://www.facebook.com/663540250713385/posts/1556534194747315/?sfnsn=scwspmo) | Remote | Closed - Deadline: 31/5/2022|✔️
 |[IBM Technical support intern](https://careers.ibm.com/job/15387857/software-technical-support-internship-cairo-eg/?codes=IBM_CareerWebSite) | Cairo |Closed |✔️
+|[Sprints]( https://bit.ly/37OftzG) | Cairo | open - Deadline UnKnown |❌
 
-
-**We love our contributors 💜💜**
-
-* [Moaz El Defrawy](https://github.com/moaz-eldefrawy)
-* [Mai Ahmed Hussein](https://github.com/MaiAhmedHussein)
-* [Youssef Bazina](https://github.com/Bazina)
-* [Bassant Yasser](https://github.com/Bassantyasser043)
-* [Engy Ibrahim](https://github.com/Engyyyy)
