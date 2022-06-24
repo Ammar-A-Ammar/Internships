@@ -33,7 +33,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Capiter](https://docs.google.com/forms/d/1xNoJWmIeHHFTgdv-z2fuPFHQ6t9fsHtEBgd4N8WiSBk/viewform?edit_requested=true&fbclid=IwAR1T5cpLTy4Q_oTvQImuDaRtQBR2tsbrtD-3uOFjvQF4CE1qcfg4wGk6Rkg) | Unknown | Open |✔️
 |[Cloudastick](https://www.cloudastick.com/careers?fbclid=IwAR3FqRL59MtbLEdwIm0q1o_6a0UrkCHF9PKKOFj9-72kHTk8PDQx3mD_x94)| Not Mentioned | Open- Deadline: 30/8/2022 |✔️
 |[Corporatica Machine Learning intern](https://www.linkedin.com/feed/update/urn:li:activity:6942460499934482436/) | Cairo |Open|✔️
-|[Corporatica software intern](https://www.linkedin.com/posts/corporatica_corporatica-softwareabrdeveloperabrintern-activity-6907334151385567232-Up48/?fbclid=IwAR08pSXicd_N6pfsB-8bCzBLOX_YUqBoRu7qNtZ4n5HioYS9XtUaITR9YkM) | Cairo |Open|✔️
+|[Corporatica software intern](https://cutt.ly/Corporatica) | Cairo |Open|✔️
 |[Emarat Al-Ard reseach Insitute](https://docs.google.com/forms/d/e/1FAIpQLSf7baCk2wffDEohoQDo41zGTCRMAZloUuH0g-bVtwlxJYdATA/viewform) | Remote | Open - <b>Unpaid Intern</b> - Data Analysts Intern |✔️
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |🔐
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Alexandria | Open |✔️
@@ -104,11 +104,21 @@ Star and Watch the repo and pull new changes regularly.
 |[orange studio](https://www.linkedin.com/posts/ayaelsayed_aeraetaepabraewaedaesaeuaey-activity-6943560146572697600-LuSz/?utm_source=linkedin_share&utm_medium=member_desktop_web) | Not Mentioned | Open - testing Internship -Deadline to apply: UnKnown|✔️
 |[Gameball](https://www.facebook.com/Gameball.co/photos/a.339279460114806/999153637460715/) | Cairo | Open - <b>Kickstart program</b>|
 |[almansour](careers.almansour.com.eg)| Cairo | Open  - Deadline: UnKnown |✔️
- <!-- |[Dell Summer Academy]() | Not Mentioned | Open - Deadline to apply: UnKnown|
-|[Dell Summer Academy]() | Not Mentioned | Open - Deadline to apply: UnKnown|
-|[Dell Summer Academy]() | Not Mentioned | Open - Deadline to apply: UnKnown|
-|[Dell Summer Academy]() | Not Mentioned | Open - Deadline to apply: UnKnown| -->
- 
+|[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 7-7-2022|
+|[Appgain](https://cutt.ly/Appgain) | Dokki, Giza | Open - Deadline to apply: UnKnown|
+|[Kazyon-Plus](https://cutt.ly/Kazyon-Plus) | Not Mentioned | Open - Deadline to apply: UnKnown|
+|[Xceed](https://cutt.ly/Xceed) | Maadi, Cairo | Open - Deadline to apply: 28-June-2022|
+|[J&T Express](https://cutt.ly/JandT-Express) | Not Mentioned | Open- <b> Paid Intern </b> - Deadline to apply: UnKnown|
+|[PayMob](https://cutt.ly/paymob) | Not Mentioned | Open - Deadline to apply: UnKnown|
+|[Educatly](https://cutt.ly/Educatly) | Cairo | Open - Deadline to apply: UnKnown|
+|[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Open - Deadline to apply: June 27-June-2022|
+|[GMindJ](https://cutt.ly/GmindJobs) | Remotely | Open - Deadline to apply: UnKnown|
+|[Envision](https://cutt.ly/envisionemployment) | 6TH OF OCTOBER, GIZA | Open - Deadline to apply: UnKnown|
+|[orange](https://cutt.ly/orangeAI) | Cairo | Open - Deadline to apply: UnKnown|
+<!-- |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
+ |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
+ |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
+ |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown| -->
  
  
  
