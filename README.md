@@ -65,7 +65,6 @@ Star and Watch the repo and pull new changes regularly.
 |[siemens ](https://jobs.siemens.com/jobs/318046?lang=en-us&previousLocale=en-US&fbclid=IwAR2JdPsDQPc3Im_hmc8Iyjh1oYUymZtYQFVYSm5wyboxVri5OVEeWd-U2eo) | Cairo | Open - <b> Multi Interns </b> - Deadline UnKnown |✔️
 |[sumerge ](https://www.sumerge.com/job-description/?jobID=87) | Cairo | Open - Deadline UnKnown |✔️
 |[MaxAB](https://careers.maxab.io/?&department=Tech#positions)| Cairo | Open- <b> - Multiple interns - Deadline: Unknown</b> |✔️
-|[Algoriza](https://docs.google.com/forms/d/e/1FAIpQLSf18qDifmfE-IfNG3IYTYYYtZnGsjWk9ALLW_b56XXcFtn__A/viewform) | Cairo | Open - Flutter Internship|✔️
 |[Appgain](https://wuzzuf.net/internship/gKyywt8lMQh4-React-Native-Intern-Appgain-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=1) | Giza | Open - <b>Paid</b> |✔️
 |[Town4One](https://wuzzuf.net/internship/NOOvwE8X5IIp-ERP-Developer-Internship-Town4One-Giza-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=5) |Sheikh Zayed | Open - <b> Paid </b> - Deadline: 20/6/2022 |✔️
 |[Gold's Gym Egypt](https://wuzzuf.net/internship/Ski0lt7xKozg-Web-Developer---Paid-Internship-Opportunity-Golds-Gym-Egypt-Cairo-Egypt?l=cup&t=bj&a=Internships-in-Egypt&o=4) | Maadi | Open - <b> Paid Intern - 2000 To 3000 EGP Per Month </b> |✔️
@@ -102,7 +101,6 @@ Star and Watch the repo and pull new changes regularly.
 |[MahaseelMasr](https://www.linkedin.com/posts/ahmed-mosman_back-end-developer-nodejs-with-0-1-year-activity-6944569274153717760-YZaw/?utm_source=linkedin_share&utm_medium=member_desktop_web) | Not Mentioned | Open - Deadline to apply: Unknown|
 |[Fudex EBS](https://www.linkedin.com/posts/fudex-ebs_we-are-hiring-tester-required-for-software-activity-6944215864510398464-IhVZ/?utm_source=linkedin_share&utm_medium=ios_app) | Not Mentioned | Open - Deadline to apply: UnKnown|✔️
 |[orange studio](https://www.linkedin.com/posts/ayaelsayed_aeraetaepabraewaedaesaeuaey-activity-6943560146572697600-LuSz/?utm_source=linkedin_share&utm_medium=member_desktop_web) | Not Mentioned | Open - testing Internship -Deadline to apply: UnKnown|✔️
-|[Gameball](https://www.facebook.com/Gameball.co/photos/a.339279460114806/999153637460715/) | Cairo | Open - <b>Kickstart program</b>|
 |[almansour](careers.almansour.com.eg)| Cairo | Open  - Deadline: UnKnown |✔️
 |[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 7-7-2022|
 |[Appgain](https://cutt.ly/Appgain) | Dokki, Giza | Open - Deadline to apply: UnKnown|
@@ -209,4 +207,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Sprints]( https://bit.ly/37OftzG) | Cairo | open - Deadline UnKnown |❌
 |[Gameball](https://www.linkedin.com/posts/gameball_for-the-third-year-in-a-row-gameballs-summer-activity-6934873715687964672-WoDA?utm_source=linkedin_share&utm_medium=member_desktop_web) | Cairo | Open - <b> Paid Intern </b> - Deadline 20/6/2022 |✔️
 |[The Sparks foundation ](https://internship.thesparksfoundation.info/#steps-to-apply)| cairo |  Open <b>  - Deadline: 24th of May (11:59 PM SGT) |✔️⭐
-|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |✔️
+|[MLH Fellowship](https://fellowship.mlh.io/) | Remote | Open - <b> Paid Intern </b> - Open Source Projects |❌
+|[Gameball](https://www.facebook.com/Gameball.co/photos/a.339279460114806/999153637460715/) | Cairo | Open - <b>Kickstart program</b>|❌
+|[Algoriza](https://docs.google.com/forms/d/e/1FAIpQLSf18qDifmfE-IfNG3IYTYYYtZnGsjWk9ALLW_b56XXcFtn__A/viewform) | Cairo | Open - Flutter Internship|❌
+|[Raisa Energy Tech](https://raisaegypt.recruitee.com/) | Cairo-hybrid | Closed |❌
