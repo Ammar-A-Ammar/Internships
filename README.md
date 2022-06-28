@@ -107,20 +107,26 @@ Star and Watch the repo and pull new changes regularly.
 |[Alexandria For Programming](https://cutt.ly/Alexapps) | Alex  | Open - Deadline to apply: 7-7-2022|
 |[Appgain](https://cutt.ly/Appgain) | Dokki, Giza | Open - Deadline to apply: UnKnown|
 |[Kazyon-Plus](https://cutt.ly/Kazyon-Plus) | Not Mentioned | Open - Deadline to apply: UnKnown|
-|[Xceed](https://cutt.ly/Xceed) | Maadi, Cairo | Open - Deadline to apply: 28-June-2022|
-|[J&T Express](https://cutt.ly/JandT-Express) | Not Mentioned | Open- <b> Paid Intern </b> - Deadline to apply: UnKnown|
+|[Xceed](https://cutt.ly/Xceed) | Maadi, Cairo | Open - Deadline to apply: 28-June-2022|✔️
+|[J&T Express](https://cutt.ly/JandT-Express) | Not Mentioned | Open- <b> Paid Intern </b> - Deadline to apply: UnKnown|✔️
 |[PayMob](https://cutt.ly/paymob) | Not Mentioned | Open - Deadline to apply: UnKnown|
-|[Educatly](https://cutt.ly/Educatly) | Cairo | Open - Deadline to apply: UnKnown|
-|[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Open - Deadline to apply: June 27-June-2022|
+|[Educatly](https://cutt.ly/Educatly) | Cairo | Open - Deadline to apply: UnKnown|✔️
+|[Kijamii](https://cutt.ly/Kijamii) | Not Mentioned | Open - Deadline to apply: June 27-June-2022|✔️
 |[GMindJ](https://cutt.ly/GmindJobs) | Remotely | Open - Deadline to apply: UnKnown|
 |[Envision](https://cutt.ly/envisionemployment) | 6TH OF OCTOBER, GIZA | Open - Deadline to apply: UnKnown|
 |[orange](https://cutt.ly/orangeAI) | Cairo | Open - Deadline to apply: UnKnown|
+|[Dsquares](https://dsquares.zohorecruit.com/jobs/Careers) |  Cairo, AI Jizah | Open -Multiple Interships - Deadline to apply: Multiple|✔️
+|[Flextock](https://cutt.ly/Flextock) | Not Mentioned | Open - Deadline to apply: UnKnown|✔️
+|[TheInshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|✔️
 <!-- |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
  |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
  |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
+ |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
+ |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
+ |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
  |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown| -->
- 
- 
+<!--   |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown| -->
+
  
  <hr>
 
