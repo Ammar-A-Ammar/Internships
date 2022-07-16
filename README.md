@@ -38,7 +38,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |🔐
 |[Espace](https://espace.com.eg/blog/announcing-our-2022-internship-program/) | Alexandria | Open |✔️
 |[Giza Systems](https://www.gizasystemscareers.com/en/job-search-results/?trigger=emptype&emptype=2&page=1) | Cairo | open |✔️
-|[Incorta](https://www.incorta.com/) | Alexandria | Not Yet |🔐
+|[Incorta](https://www.incorta.com/) | Alexandria | Open |✔️
 |[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |🔐
 |[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - <b> Paid Intern </b> - Requires 3rd year computer science engineering students |✔️
 |[Leetcode](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern)| Worldwide | Open- <b>Paid Intern</b> - Full Stack Intern |✔️
@@ -116,6 +116,8 @@ Star and Watch the repo and pull new changes regularly.
 |[Dsquares](https://dsquares.zohorecruit.com/jobs/Careers) |  Cairo, AI Jizah | Open -Multiple Interships - Deadline to apply: Multiple|✔️
 |[Flextock](https://cutt.ly/Flextock) | Not Mentioned | Open - Deadline to apply: UnKnown|✔️
 |[TheInshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|✔️
+|[Garment IO](https://garment.io/careers/software-engineer-intern/) | Sheikh Zayed | Open |✔️
+|[Atos Tamayoz Internship Program- Microsoft](https://jobs.atos.net/job/Cairo-Tamayoz-Internship-Program-Microsoft-Cair/814338701/) | Cairo | Open - for fresh graduates|✔️
 <!-- |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
  |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
  |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
