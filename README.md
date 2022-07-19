@@ -118,6 +118,7 @@ Star and Watch the repo and pull new changes regularly.
 |[TheInshort](https://cutt.ly/theInshort) | remote  | Open - Deadline to apply: UnKnown|✔️
 |[Garment IO](https://garment.io/careers/software-engineer-intern/) | Sheikh Zayed | Open |✔️
 |[Atos Tamayoz Internship Program- Microsoft](https://jobs.atos.net/job/Cairo-Tamayoz-Internship-Program-Microsoft-Cair/814338701/) | Cairo | Open - for fresh graduates|✔️
+|[ZINAD](https://cutt.ly/ZINAD-IT) | Not Mentioned | Open - Deadline to apply: UnKnown|✔️
 <!-- |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
  |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
  |[name]() | Not Mentioned | Open - Deadline to apply: UnKnown|
